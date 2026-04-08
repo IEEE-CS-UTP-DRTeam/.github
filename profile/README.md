@@ -1,4 +1,4 @@
-# IEEE Computer Society UTP — Development & Applied Research Team (DRTeam)
+# IEEE Computer Society UTP — Development & Applied Research Team (DART)
 
 Hola! Somos el equipo de Desarrollo e Investigación Aplicada del capítulo estudiantil **IEEE Computer Society UTP Chiriquí**, en esta organización construimos entregables reales para aumentar el **impacto** y la **visibilidad** del capítulo, mientras formamos miembros con prácticas profesionales de ingeniería.
 
